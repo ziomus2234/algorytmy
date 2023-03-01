@@ -1,2 +1,1 @@
 # algorytmy
-jabron
